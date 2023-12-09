@@ -25,3 +25,15 @@
 ## GETTING INTO THE PROJECT:
 This website was created for a frontend devlopment task for the company quicksell. 
 
+### Grouping by status
+<img width="1080" alt="image" src="https://github.com/Vinayakk404/QuickSell-Task/assets/72989303/e969da45-9930-46ab-98b2-1422b3220652">
+
+### Grouping by User
+<img width="1080" alt="image" src="https://github.com/Vinayakk404/QuickSell-Task/assets/72989303/2c4c4249-2292-4b83-8b55-46033b5ddf7f">
+
+### Grouping by priority
+<img width="1080" alt="image" src="https://github.com/Vinayakk404/QuickSell-Task/assets/72989303/8da4c63a-2419-492d-8432-183c647ff208">
+
+### Order by title
+<img width="1080" alt="image" src="https://github.com/Vinayakk404/QuickSell-Task/assets/72989303/48814b9e-4ad2-465f-876c-fe878acd8d01">
+
