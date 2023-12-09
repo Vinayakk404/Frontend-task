@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    align-items: flex-start;
+    gap: 22px;
+ justify-content: space-evenly;
+    
+    padding: 10px 10px;
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.CardContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    gap: 3px;
+    width : 248px;
+    
+}
+.CardHeading 
+{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+
+    margin-top: 10px;
+    justify-content: space-between;
+   
+   
+}
+.CardList
+{
+    margin-top: 10px;
+}
+.title
+{
+    font-size: 18px;
+    font-weight: 500;
+    color: #2c2c2c;
+   
+    display: flex;
+}
+.title-number{
+    padding-left: 7px;
+    color:grey
+}
